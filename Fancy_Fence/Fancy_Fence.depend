@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683002537 source:c:\users\admin\documents\code(2022-2023)\fancy_fence\main.cpp
+	<iostream>
+	<cmath>
+

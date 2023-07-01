@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681815523 source:c:\users\admin\documents\code(2022-2023)\trongxe\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<string.h>
+	<math.h>
+

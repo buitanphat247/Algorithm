@@ -1,0 +1,13 @@
+Backtracking(k) {
+	for([Mỗi phương án chọn i(thuộc tập D)]) {
+		if ([Chấp nhận i]) {
+			[Chọn i cho X[k]];
+			if ([Thành công]) {
+				[Đưa ra kết quả];
+			} else {
+				Backtracking(k+1);
+				[Bỏ chọn i cho X[k]];
+			}
+		}
+	}
+}

@@ -1,0 +1,218 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bai5",
+      "request": "launch",
+      "mainClass": "Bai5.bai5",
+      "projectName": "WorkSpace_5ff4f35b"
+    },
+    {
+      "type": "java",
+      "name": "bai4",
+      "request": "launch",
+      "mainClass": "Bai4.bai4",
+      "projectName": "WorkSpace_5ff4f35b"
+    },
+    {
+      "type": "java",
+      "name": "bai3",
+      "request": "launch",
+      "mainClass": "Bai3.bai3",
+      "projectName": "WorkSpace_5ff4f35b"
+    },
+    {
+      "type": "java",
+      "name": "bai2",
+      "request": "launch",
+      "mainClass": "Bai2.bai2",
+      "projectName": "WorkSpace_5ff4f35b"
+    },
+    {
+      "type": "java",
+      "name": "bai1",
+      "request": "launch",
+      "mainClass": "Bai1.bai1",
+      "projectName": "WorkSpace_5ff4f35b"
+    },
+    {
+      "type": "java",
+      "name": "Launch b14",
+      "request": "launch",
+      "mainClass": "b14.b14",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b13",
+      "request": "launch",
+      "mainClass": "b13.b13",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b13",
+      "request": "launch",
+      "mainClass": "b12.b13",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b12",
+      "request": "launch",
+      "mainClass": "b12.b12",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11",
+      "request": "launch",
+      "mainClass": "b11.b11",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10",
+      "request": "launch",
+      "mainClass": "b10.b10",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch main",
+      "request": "launch",
+      "mainClass": "b10.main",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1",
+      "request": "launch",
+      "mainClass": "b1.b1",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b5",
+      "request": "launch",
+      "mainClass": "b5.b5",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b9",
+      "request": "launch",
+      "mainClass": "b9.b9",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b5",
+      "request": "launch",
+      "mainClass": "b5",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b4",
+      "request": "launch",
+      "mainClass": "b5.b4",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b3",
+      "request": "launch",
+      "mainClass": "b3.b3",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2",
+      "request": "launch",
+      "mainClass": "b2.b2",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1",
+      "request": "launch",
+      "mainClass": "b1",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "Vs Code_f624d4d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch helloworldService",
+      "request": "launch",
+      "mainClass": "helloworldService",
+      "projectName": "Visual Code_f2122333"
+    },
+    {
+      "type": "java",
+      "name": "Launch helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "Visual Code_f2122333"
+    },
+    {
+      "name": "g++.exe - Build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "C/C++: g++.exe build active file"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Admin/Documents/Code(2022-2023)/C++/demo_c",
+      "program": "c:/Users/Admin/Documents/Code(2022-2023)/C++/demo_c/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
